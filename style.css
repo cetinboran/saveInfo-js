@@ -1,0 +1,30 @@
+body{
+    min-width: 600px;
+    margin: 0;
+}
+
+ul{
+    list-style-type: none;
+}
+
+ul > li > a{
+    color: green;
+    font-style: italic;
+}
+
+button{
+    width: 150px;
+    padding: 10px;
+    margin-left: 5px;
+    margin-top: 5px;
+    color: white;
+    font-weight: bolder;
+    background-color: green;
+    border: 0;
+}
+
+#inputArea{
+    width: 98.5%;
+    margin: 5px;
+    padding: 5px;
+}
